@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #650000;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+nav a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px;
+}
+
+.hero img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.about {
+    padding: 60px;
+}
+
+#contact {
+    padding: 60px;
+}
